@@ -23,9 +23,6 @@ It provides KPIs, charts, customer segmentation, and discount impact analysis â€
 
 ## âš¡ Quickstart
 ```bash
-# Clone repo
-git clone https://github.com/<your-username>/superstore-sales-insights.git
-cd superstore-sales-insights
 
 # Install dependencies
 pip install -r requirements.txt
