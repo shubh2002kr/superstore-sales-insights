@@ -1,4 +1,4 @@
-# 📦 Superstore Sales Insights Dashboard — Built by Shubh Kumar  
+# 📦 Superstore Sales Insights Dashboard 
 
 An **interactive Streamlit dashboard** for analyzing **Superstore Sales Data**.  
 It provides KPIs, charts, customer segmentation, and discount impact analysis — similar to BI dashboards like Power BI, but fully in Python.  
