@@ -1,4 +1,4 @@
-# 📦 Superstore Sales Insights Dashboard — Built by Shubh Kumar  
+# 📦 Superstore Sales Insights Dashboard
 
 [![Streamlit](https://img.shields.io/badge/Made%20With-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
